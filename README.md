@@ -8,7 +8,7 @@ A spinning cube made out of ascii characters in C#
 2. Make sure that the terminal window that pops up is maximized, or that it's at least large enough to fit the entire cube
 
 ## 
-Got [ConsoleHelper.cs](https://github.com/DaBagelBoi/Cube/blob/773365c3b39a24cc185740737ac4415aa9fa3bb2/SourceCode/ConsoleHelper.cs) from [stackoverflow](https://stackoverflow.com/questions/6554536/possible-to-get-set-console-font-size-in-c-sharp-net) so that I can change the font size. I was unable to find the original programmer.
+Got [ConsoleHelper.cs](https://github.com/DaBagelBoi/Cube/blob/773365c3b39a24cc185740737ac4415aa9fa3bb2/SourceCode/ConsoleHelper.cs) from [stackoverflow](https://stackoverflow.com/questions/6554536/possible-to-get-set-console-font-size-in-c-sharp-net) so that I can change the font size. I was unable to find the original programmer to credit.
 
 Created as a personal project inspired by this video:
 
